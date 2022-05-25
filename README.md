@@ -7,7 +7,7 @@ Information System Student
 Currently, I am interested in backend development with Go.
 
 * 🌍  I'm based in Malang, Indonesia
-* ✉️  You can contact me at [bagash2202@gmail.com](mailto:bagashiz@proton.me)
+* ✉️  You can contact me at [bagashiz@proton.me](mailto:bagashiz@proton.me)
 
 
 ### Socials
