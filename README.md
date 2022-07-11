@@ -7,6 +7,7 @@ Currently, I am interested in learning backend development with Go programming l
 * 🌍  I'm based in Malang, Indonesia
 * ✉️  You can contact me at [bagashiz@proton.me](mailto:bagashiz@proton.me)
 * 🧠  I'm learning Backend Development with Go
+* ⚡  Linux and FOSS enthusiast, I use Fedora BTW
 
 ### Skills
 
