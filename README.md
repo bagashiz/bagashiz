@@ -7,7 +7,7 @@ Currently, I am interested in learning backend development with Go programming l
 * 🌍  I'm based in Malang, Indonesia
 * ✉️  You can contact me at [bagashiz@proton.me](mailto:bagashiz@proton.me)
 * 🧠  I'm learning Backend Development with Go
-* ⚡  Linux and FOSS enthusiast, I use Fedora BTW
+* 🐧  Linux and FOSS enthusiast (I use Fedora BTW)
 
 ### Skills
 
@@ -16,7 +16,7 @@ Currently, I am interested in learning backend development with Go programming l
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/bagashiz" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a>
-<a href="https://www.linkedin.com/in/bagas-hizbullah-89381a21a/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
+<a href="https://www.linkedin.com/in/bagas-hizbullah/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
 <a href="https://www.twitter.com/Pak_Dengklek" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
 
 ### Badges
