@@ -1,9 +1,9 @@
 Hi 👋 My name is Bagas Hizbullah
 ================================
-Information System Student
+👨🏽‍🦱 About Me
 --------------------------
 
-Currently, I am interested in learning backend development with Go programming language.
+I am an Information System student who interested in backend development.
 * 🌍  I'm based in Malang, Indonesia
 * ✉️  You can contact me at [bagashiz@proton.me](mailto:bagashiz@proton.me)
 * 🧠  I'm learning Backend Development with Go
