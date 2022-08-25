@@ -1,9 +1,9 @@
 Hi 👋 My name is Bagas Hizbullah
 ================================
-👨🏽‍🦱 About Me
+About Me
 --------------------------
 
-I am an Information System student who interested in backend development.
+I am an Information System student at [Brawijaya University](https://ub.ac.id/).
 * 🌍  I'm based in Malang, Indonesia
 * ✉️  You can contact me at [bagashiz@proton.me](mailto:bagashiz@proton.me)
 * 🧠  I'm learning Backend Development with Go
