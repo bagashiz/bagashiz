@@ -25,6 +25,6 @@ I am an Information System student at [Brawijaya University](https://ub.ac.id/).
 
 <a href="http://www.github.com/bagashiz"><img src="https://github-readme-stats.vercel.app/api?username=bagashiz&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5" alt="bagashiz's GitHub stats" /></a>
 
-<a href="http://www.github.com/bagashiz"><img src="https://github-readme-streak-stats.herokuapp.com/?user=bagashiz&stroke=&background=1e1e2e&ring=0891b2&fire=cba6f7&currStreakNum=cdd6f4&currStreakLabel=cba6f7&sideNums=cdd6f4&sideLabels=cdd6f4&dates=cdd6f4" /></a>
+<a href="http://www.github.com/bagashiz"><img src="https://github-readme-streak-stats.herokuapp.com/?user=bagashiz&stroke=&background=1e1e2e&ring=cba6f7&fire=cba6f7&currStreakNum=cdd6f4&currStreakLabel=cba6f7&sideNums=cdd6f4&sideLabels=cdd6f4&dates=cdd6f4" /></a>
 
 <a href="http://www.github.com/bagashiz"><img src="https://activity-graph.herokuapp.com/graph?username=bagashiz&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
