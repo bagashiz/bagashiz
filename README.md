@@ -8,7 +8,7 @@ I am an Information System student at [Brawijaya University](https://ub.ac.id).
 
 *   🌍  I'm based in Malang, Indonesia
 *   🖥️  See my portfolio at [My Resume Web Page](https://bagashiz.github.io)
-*   ✉️  You can contact me at [work.bitsy@simplelogin.com](mailto:bagash.office@simplelogin.com)
+*   ✉️  You can contact me at [bagash.office@simplelogin.com](mailto:bagash.office@simplelogin.com)
 *   🧠  I'm learning back-end development using Go Programming Language
 *   🐧  Linux and FOSS enthusiast (I use Fedora BTW)
 *   🐱  Catppuccin colorscheme FTW!
