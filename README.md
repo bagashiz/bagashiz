@@ -13,8 +13,8 @@ I am an Information System student at [Brawijaya University](https://ub.ac.id).
 *   🐧  Linux and FOSS enthusiast (I use Fedora BTW)
 *   🐱  Catppuccin colorscheme FTW!
 
-<a href="https://www.twitter.com/Pak_Dengklek" target="_blank" rel="noreferrer"><img src="https://img.shields.io/twitter/follow/Pak_Dengklek?logo=twitter&style=for-the-badge&color=cba6f7&labelColor=1e1e2e"/></a>
-<a href="https://www.github.com/bagashiz" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/bagashiz?logo=github&style=for-the-badge&color=cba6f7&labelColor=1e1e2e"/></a>
+<a href="https://www.twitter.com/Pak_Dengklek" target="_blank" rel="noreferrer"><img src="https://img.shields.io/twitter/follow/Pak_Dengklek?logo=twitter&style=for-the-badge&color=89b4fa&labelColor=1e1e2e"/></a>
+<a href="https://www.github.com/bagashiz" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/bagashiz?logo=github&style=for-the-badge&color=89b4fa&labelColor=1e1e2e"/></a>
 
 ### Skills 
 <p align="left">
@@ -37,6 +37,8 @@ I am an Information System student at [Brawijaya University](https://ub.ac.id).
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/bagashiz"><img src="https://github-readme-stats.vercel.app/api?username=bagashiz&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=cba6f7" alt="bagashiz's GitHub stats" /></a>
+<a href="http://www.github.com/bagashiz"><img src="https://github-readme-stats.vercel.app/api?username=bagashiz&bg_color=1e1e2e&text_color=cdd6f4&icon_color=89b4fa&title_color=89b4fa" alt="bagashiz's GitHub stats" /></a>
 
-<a href="http://www.github.com/bagashiz"><img src="https://github-readme-streak-stats.herokuapp.com/?user=bagashiz&stroke=&background=1e1e2e&ring=cba6f7&fire=cba6f7&currStreakNum=cdd6f4&currStreakLabel=cba6f7&sideNums=cdd6f4&sideLabels=cba6f7&dates=cdd6f4" /></a>
+<a href="http://www.github.com/bagashiz"><img src="https://github-readme-streak-stats.herokuapp.com/?user=bagashiz&stroke=&background=1e1e2e&ring=89b4fa&fire=89b4fa&currStreakNum=cdd6f4&currStreakLabel=89b4fa&sideNums=cdd6f4&sideLabels=89b4fa&dates=cdd6f4" /></a>
+
+<a href="http://www.github.com/bagashiz"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=bagashiz&bg_color=1e1e2e&color=cdd6f4&line=89b4fa&point=cdd6f4&area_color=1e1e2e&area=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
