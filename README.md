@@ -38,8 +38,6 @@ I am an Information System student at [Brawijaya University](https://ub.ac.id).
 
 <b>My GitHub Stats</b>
 <div align="center">
-<a href="http://www.github.com/bagashiz"><img src="https://github-readme-stats.vercel.app/api?username=bagashiz&bg_color=1e1e2e&text_color=cdd6f4&icon_color=89b4fa&title_color=89b4fa" alt="bagashiz's GitHub stats" /></a>
-
 <a href="http://www.github.com/bagashiz"><img src="https://github-readme-streak-stats.herokuapp.com/?user=bagashiz&stroke=&background=1e1e2e&ring=89b4fa&fire=89b4fa&currStreakNum=cdd6f4&currStreakLabel=89b4fa&sideNums=cdd6f4&sideLabels=89b4fa&dates=cdd6f4" /></a>
 
 <a href="http://www.github.com/bagashiz"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=bagashiz&bg_color=1e1e2e&color=cdd6f4&line=89b4fa&point=cdd6f4&area_color=1e1e2e&area=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
