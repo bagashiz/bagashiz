@@ -23,6 +23,8 @@ I am an Information System student at [Brawijaya University](https://ub.ac.id).
   <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
   <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
   <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
+  <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
   <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
 </p>
 
@@ -38,6 +40,8 @@ I am an Information System student at [Brawijaya University](https://ub.ac.id).
 
 <b>My GitHub Stats</b>
 <div align="center">
+<a href="http://www.github.com/bagashiz"><img src="https://github-readme-stats.vercel.app/api?username=bagashiz&bg_color=1e1e2e&text_color=cdd6f4&icon_color=89b4fa&title_color=89b4fa" alt="bagashiz's GitHub stats" /></a>
+
 <a href="http://www.github.com/bagashiz"><img src="https://github-readme-streak-stats.herokuapp.com/?user=bagashiz&stroke=&background=1e1e2e&ring=89b4fa&fire=89b4fa&currStreakNum=cdd6f4&currStreakLabel=89b4fa&sideNums=cdd6f4&sideLabels=89b4fa&dates=cdd6f4" /></a>
 
 <a href="http://www.github.com/bagashiz"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=bagashiz&bg_color=1e1e2e&color=cdd6f4&line=89b4fa&point=cdd6f4&area_color=1e1e2e&area=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
