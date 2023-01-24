@@ -13,7 +13,6 @@ I am an Information System student at [Brawijaya University](https://ub.ac.id).
 *   🐧  Linux and FOSS enthusiast (I use Fedora BTW)
 *   🐱  Catppuccin colorscheme FTW!
 
-<a href="https://www.twitter.com/Pak_Dengklek" target="_blank" rel="noreferrer"><img src="https://img.shields.io/twitter/follow/Pak_Dengklek?logo=twitter&style=for-the-badge&color=89b4fa&labelColor=1e1e2e"/></a>
 <a href="https://www.github.com/bagashiz" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/bagashiz?logo=github&style=for-the-badge&color=89b4fa&labelColor=1e1e2e"/></a>
 
 ### Skills 
