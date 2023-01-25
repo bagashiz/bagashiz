@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 About Me:
 --------
 
-I am an Information System student at [Brawijaya University](https://ub.ac.id).
+I am an Information Systems student at [Brawijaya University](https://ub.ac.id).
 
 *   🌍  I'm based in Malang, Indonesia
 *   🖥️  See my portfolio at [My Resume Web Page](https://bagashiz.github.io)
