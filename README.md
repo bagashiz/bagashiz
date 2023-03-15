@@ -17,8 +17,8 @@ I am an Information Systems student at [Brawijaya University](https://ub.ac.id).
 # 🌐 Socials
 
 <p align="left">
-</a> <a href="https://www.gitlab.com/bagashiz" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" /></a>
-</a> <a href="https://www.linkedin.com/in/bagas-hizbullah" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.gitlab.com/bagashiz" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/bagas-hizbullah" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://www.dev.to/bagashiz" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" /></a>
 <a href="https://www.mastodon.social/@Pak_Dengklek" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Mastodon-6364FF?style=for-the-badge&logo=Mastodon&logoColor=white" /></a>
 </p>
