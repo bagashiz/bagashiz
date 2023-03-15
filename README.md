@@ -44,7 +44,7 @@ I am an Information Systems student at [Brawijaya University](https://ub.ac.id).
 ## Clouds
 ![Railway](https://img.shields.io/badge/Railway-131415?style=for-the-badge&logo=railway&logoColor=white)
 
-# 📊 GitHub Stats:
+# 📊 GitHub Stats
 
 <div align="center">
 <a href="http://www.github.com/bagashiz"><img src="https://github-readme-stats.vercel.app/api?username=bagashiz&bg_color=1e1e2e&text_color=cdd6f4&icon_color=89b4fa&title_color=89b4fa" alt="bagashiz's GitHub stats" /></a>
