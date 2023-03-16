@@ -12,7 +12,7 @@ I am an Information Systems student at [Brawijaya University](https://ub.ac.id).
 *   🐧  Linux and FOSS enthusiast (I use Fedora BTW)
 *   🐱  Catppuccin colorscheme FTW!
 
-<a href="https://www.github.com/bagashiz" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/bagashiz?logo=github&style=for-the-badge&color=e5e5e5&labelColor=171717"/></a> [![](https://visitcount.itsvg.in/api?id=bagashiz&icon=0&color=12)](https://visitcount.itsvg.in)
+<a href="https://www.github.com/bagashiz" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/bagashiz?logo=github&style=for-the-badge&color=e5e5e5&labelColor=171717"/></a>
 
 # 🌐 Socials
 
