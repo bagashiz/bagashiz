@@ -31,7 +31,7 @@ I am an Information Systems student at [Brawijaya University](https://ub.ac.id).
 
 ## Languages
 
-![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) 
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) 
 
 ## Frameworks && Libraries
 
@@ -51,5 +51,5 @@ I am an Information Systems student at [Brawijaya University](https://ub.ac.id).
 
 <a href="http://www.github.com/bagashiz"><img src="https://github-readme-streak-stats.herokuapp.com/?user=bagashiz&stroke=&background=1e1e2e&ring=89b4fa&fire=89b4fa&currStreakNum=cdd6f4&currStreakLabel=89b4fa&sideNums=cdd6f4&sideLabels=89b4fa&dates=cdd6f4" /></a>
 
-<a href="http://www.github.com/bagashiz"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=bagashiz&bg_color=1e1e2e&color=cdd6f4&line=89b4fa&point=cdd6f4&area_color=1e1e2e&area=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+<a href="http://www.github.com/bagashiz"><img src="https://github-readme-activity-graph.vercel.app/graph?username=bagashiz&bg_color=1e1e2e&color=cdd6f4&line=89b4fa&point=cdd6f4&area_color=1e1e2e&area=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 </div>
