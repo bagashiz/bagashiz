@@ -5,7 +5,7 @@ Hi! 👋 My name is Bagas Hizbullah
 
 I am an Information Systems student at [Brawijaya University](https://ub.ac.id).
 
-*   🌍  I'm based in Malang, Indonesia
+*   🌍  I'm based in Bekasi, West Java, Indonesia
 *   🖥️  See my portfolio at [My Resume Web Page](https://bagashiz.me)
 *   ✉️  You can contact me at [bagash.office@simplelogin.com](mailto:bagash.office@simplelogin.com)
 *   🧠  I'm learning back-end development
