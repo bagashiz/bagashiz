@@ -6,7 +6,7 @@ Hi! 👋 My name is Bagas Hizbullah
 I am an Information Systems student at [Brawijaya University](https://ub.ac.id).
 
 *   🌍  I'm based in Bekasi, West Java, Indonesia
-*   🖥️  See my portfolio at [My Portfolio Website](https://bagashiz.me)
+*   🖥️  See my portfolio at [My Portfolio Website](https://bagashiz.xyz)
 *   ✉️  You can contact me at [bagash.office@simplelogin.com](mailto:bagash.office@simplelogin.com)
 *   🧠  I'm learning back-end web development & software engineering
 *   🐧  Linux and FOSS enthusiast (I use Fedora BTW)
@@ -48,9 +48,11 @@ I am an Information Systems student at [Brawijaya University](https://ub.ac.id).
 # 📊 GitHub Stats
 
 <div align="center">
-<a href="http://www.github.com/bagashiz"><img src="https://github-readme-stats.vercel.app/api?username=bagashiz&bg_color=1e1e2e&text_color=cdd6f4&icon_color=89b4fa&title_color=89b4fa" alt="bagashiz's GitHub stats" /></a>
-
-<a href="http://www.github.com/bagashiz"><img src="https://github-readme-activity-graph.vercel.app/graph?username=bagashiz&bg_color=1e1e2e&color=cdd6f4&line=89b4fa&point=cdd6f4&area_color=1e1e2e&area=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+  <div style="display: flex; justify-content: center;">
+    <a href="http://www.github.com/bagashiz"><img src="https://github-readme-stats.vercel.app/api?username=bagashiz&show_icons=true&bg_color=1e1e2e&text_color=cdd6f4&icon_color=89b4fa&title_color=89b4fa" alt="bagashiz's GitHub Stats" /></a>
+    <a href="http://www.github.com/bagashiz"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bagashiz&layout=donut&bg_color=1e1e2e&text_color=cdd6f4&icon_color=89b4fa&title_color=89b4fa" alt="bagashiz's GitHub Top Languages" /></a>
+    <a href="http://www.github.com/bagashiz"><img src="https://github-readme-activity-graph.vercel.app/graph?username=bagashiz&bg_color=1e1e2e&color=cdd6f4&line=89b4fa&point=cdd6f4&area_color=1e1e2e&area=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+  </div>
 </div>
 
 # 🎖️ Badges
